@@ -1,0 +1,19 @@
+{
+  "name": "movie-site-react-express-mongodb-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ts-24-08/movie-site-react-express-mongodb-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ts-24-08/movie-site-react-express-mongodb-demo/issues"
+  },
+  "homepage": "https://github.com/ts-24-08/movie-site-react-express-mongodb-demo#readme",
+  "description": ""
+}
