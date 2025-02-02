@@ -19,6 +19,7 @@
   "homepage": "https://github.com/ts-24-08/movie-site-react-express-mongodb-demo#readme",
   "description": "",
   "dependencies": {
-    "concurrently": "^9.1.2"
+    "concurrently": "^9.1.2",
+    "dotenv": "^16.4.7"
   }
 }
