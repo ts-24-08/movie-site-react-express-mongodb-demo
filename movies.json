@@ -1,0 +1,3400 @@
+[{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad23c"
+  },
+  "url": "https://www.imdb.com/title/tt0241527/?ref_=sr_t_1",
+  "id": "tt0241527",
+  "title": "Harry Potter und der Stein der Weisen",
+  "rating": 7.6,
+  "release": 2001,
+  "fsk": 6,
+  "length": "2h 32m",
+  "description": "Aus der empörenden Vernachlässigung durch seine Tante und seinen Onkel gerettet, zeigt ein kleiner Junge mit einer großen Bestimmung, was in ihm steckt, während er die Hogwarts-Schule für Hexerei und Zauberei besucht.",
+  "genres": [
+    "Teen Fantasy",
+    "Adventure",
+    "Family",
+    "Fantasy",
+    "Holiday"
+  ],
+  "regie": [
+    "Chris Columbus"
+  ],
+  "script": [
+    "J.K. Rowling",
+    "Steve Kloves"
+  ],
+  "actors": [
+    "Daniel Radcliffe",
+    "Rupert Grint",
+    "Emma Watson"
+  ],
+  "image": "tt0241527.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad23d"
+  },
+  "url": "https://www.imdb.com/title/tt7131622/?ref_=sr_t_2",
+  "id": "tt7131622",
+  "title": "Once Upon a Time In... Hollywood",
+  "rating": 7.6,
+  "release": 2019,
+  "fsk": 16,
+  "length": "2h 41m",
+  "description": "Ein abgehalfterter TV-Schauspieler und sein Stuntdouble begeben sich auf eine Odyssee, um sich während der grauenvollen Manson-Morde 1969 in Los Angeles einen Namen in der Filmindustrie zu machen.",
+  "genres": [
+    "Period Drama",
+    "Showbiz Drama",
+    "Comedy",
+    "Drama"
+  ],
+  "regie": [
+    "Quentin Tarantino"
+  ],
+  "script": [
+    "Quentin Tarantino"
+  ],
+  "actors": [
+    "Leonardo DiCaprio",
+    "Brad Pitt",
+    "Margot Robbie"
+  ],
+  "image": "tt7131622.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad23e"
+  },
+  "url": "https://www.imdb.com/title/tt0387564/?ref_=sr_t_3",
+  "id": "tt0387564",
+  "title": "Saw",
+  "rating": 7.6,
+  "release": 2004,
+  "fsk": 18,
+  "length": "1h 43m",
+  "description": "Zwei Fremde, die in einem Raum aufwachen, ohne sich daran zu erinnern, wie sie dort hingekommen sind, entdecken bald, dass sie Spielfiguren in einem tödlichen Spiel eines berüchtigten Serienmörders sind.",
+  "genres": [
+    "Splatter Horror",
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "regie": [
+    "James Wan"
+  ],
+  "script": [
+    "Leigh Whannell",
+    "James Wan"
+  ],
+  "actors": [
+    "Cary Elwes",
+    "Leigh Whannell",
+    "Danny Glover"
+  ],
+  "image": "tt0387564.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad23f"
+  },
+  "url": "https://www.imdb.com/title/tt0230600/?ref_=sr_t_4",
+  "id": "tt0230600",
+  "title": "The Others",
+  "rating": 7.6,
+  "release": 2001,
+  "fsk": 12,
+  "length": "1h 41m",
+  "description": "Eine Frau, die mit ihren beiden lichtempfindlichen Kindern in ihrem abgedunkelten alten Familienhaus lebt, ist überzeugt, dass das Haus heimgesucht wird.",
+  "genres": [
+    "Period Drama",
+    "Psychological Horror",
+    "Psychological Thriller",
+    "Supernatural Horror",
+    "Suspense Mystery",
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "regie": [
+    "Alejandro Amenábar"
+  ],
+  "script": [
+    "Alejandro Amenábar"
+  ],
+  "actors": [
+    "Nicole Kidman",
+    "Christopher Eccleston",
+    "Fionnula Flanagan"
+  ],
+  "image": "tt0230600.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad240"
+  },
+  "url": "https://www.imdb.com/title/tt0119116/?ref_=sr_t_5",
+  "id": "tt0119116",
+  "title": "Das fünfte Element",
+  "rating": 7.6,
+  "release": 1997,
+  "fsk": 12,
+  "length": "2h 6m",
+  "description": "In einer bunten Zukunft wird ein Taxifahrer unabsichtlich zur zentralen Figur bei der Suche nach einer legendären kosmischen Waffe, um das Böse und Zorg in Schach zu halten.",
+  "genres": [
+    "Sci-Fi Epic",
+    "Space Sci-Fi",
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "regie": [
+    "Luc Besson"
+  ],
+  "script": [
+    "Luc Besson",
+    "Robert Mark Kamen"
+  ],
+  "actors": [
+    "Bruce Willis",
+    "Milla Jovovich",
+    "Gary Oldman"
+  ],
+  "image": "tt0119116.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad241"
+  },
+  "url": "https://www.imdb.com/title/tt3416742/?ref_=sr_t_6",
+  "id": "tt3416742",
+  "title": "5 Zimmer Küche Sarg",
+  "rating": 7.6,
+  "release": 2014,
+  "fsk": 12,
+  "length": "1h 26m",
+  "description": "Ein Team Dokumentarfilmer filmt einige Monate lang das Leben einer Gruppe Vampire. Die Vampire leben gemeinsam in einem Haus in Wellington, Neuseeland. Es stellt sich heraus, dass auch bei Vampiren der Haussegen schief hängen kann.",
+  "genres": [
+    "Dark Comedy",
+    "Mockumentary",
+    "Satire",
+    "Supernatural Horror",
+    "Vampire Horror",
+    "Comedy",
+    "Horror"
+  ],
+  "regie": [
+    "Jemaine Clement",
+    "Taika Waititi"
+  ],
+  "script": [
+    "Jemaine Clement",
+    "Taika Waititi"
+  ],
+  "actors": [
+    "Jemaine Clement",
+    "Taika Waititi",
+    "Cori Gonzalez-Macuer"
+  ],
+  "image": "tt3416742.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad242"
+  },
+  "url": "https://www.imdb.com/title/tt0056869/?ref_=sr_t_7",
+  "id": "tt0056869",
+  "title": "Die Vögel",
+  "rating": 7.6,
+  "release": 1963,
+  "fsk": 16,
+  "length": "1h 59m",
+  "description": "Eine vermögende junge Dame der besseren Gesellschaft San Franciscos folgt einem potenziellen Freund und Liebhaber in ein kleines Städtchen in Nordkalifornien, das groteske Züge annimmt, als plötzlich alle möglichen Vogelarten beginnen, Leute anzugreifen.",
+  "genres": [
+    "Drama",
+    "Horror",
+    "Mystery",
+    "Romance"
+  ],
+  "regie": [
+    "Alfred Hitchcock"
+  ],
+  "script": [
+    "Daphne Du Maurier",
+    "Evan Hunter",
+    "Jeanne Saintenoy"
+  ],
+  "actors": [
+    "Rod Taylor",
+    "Tippi Hedren",
+    "Jessica Tandy"
+  ],
+  "image": "tt0056869.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad243"
+  },
+  "url": "https://www.imdb.com/title/tt5463162/?ref_=sr_t_8",
+  "id": "tt5463162",
+  "title": "Deadpool 2",
+  "rating": 7.6,
+  "release": 2018,
+  "fsk": 16,
+  "length": "1h 59m",
+  "description": "Deadpool stellt ein neues Team zusammen, die \"X-Force\", um ein Kind vor Cable zu retten, der von einer möglichen Zeitlinie in der Zukunft gekommen ist, um den Jungen zu töten.",
+  "genres": [
+    "Dark Comedy",
+    "Gun Fu",
+    "Raunchy Comedy",
+    "Superhero",
+    "Time Travel",
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "regie": [
+    "David Leitch"
+  ],
+  "script": [
+    "Rhett Reese",
+    "Paul Wernick",
+    "Ryan Reynolds"
+  ],
+  "actors": [
+    "Ryan Reynolds",
+    "Josh Brolin",
+    "Morena Baccarin"
+  ],
+  "image": "tt5463162.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad244"
+  },
+  "url": "https://www.imdb.com/title/tt13833688/?ref_=sr_t_9",
+  "id": "tt13833688",
+  "title": "The Whale",
+  "rating": 7.6,
+  "release": 2022,
+  "fsk": 12,
+  "length": "1h 57m",
+  "description": "Ein zurückgezogen lebender, schwer fettleibiger Englischlehrer versucht, sich mit seiner entfremdeten Teenager-Tochter zu versöhnen, um eine letzte Chance auf Wiedergutmachung zu erhalten.",
+  "genres": [
+    "Epic",
+    "Psychological Drama",
+    "Tragedy",
+    "Drama"
+  ],
+  "regie": [
+    "Darren Aronofsky"
+  ],
+  "script": [
+    "Samuel D. Hunter"
+  ],
+  "actors": [
+    "Brendan Fraser",
+    "Sadie Sink",
+    "Ty Simpkins"
+  ],
+  "image": "tt13833688.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad245"
+  },
+  "url": "https://www.imdb.com/title/tt0151804/?ref_=sr_t_10",
+  "id": "tt0151804",
+  "title": "Alles Routine",
+  "rating": 7.6,
+  "release": 1999,
+  "fsk": 12,
+  "length": "1h 29m",
+  "description": "Drei Firmenangestellte, die ihre Jobs hassen, beschließen, gegen ihren gierigen Boss zu rebellieren.",
+  "genres": [
+    "Satire",
+    "Comedy"
+  ],
+  "regie": [
+    "Mike Judge"
+  ],
+  "script": [
+    "Mike Judge"
+  ],
+  "actors": [
+    "Ron Livingston",
+    "Jennifer Aniston",
+    "David Herman"
+  ],
+  "image": "tt0151804.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad246"
+  },
+  "url": "https://www.imdb.com/title/tt0416449/?ref_=sr_t_11",
+  "id": "tt0416449",
+  "title": "300",
+  "rating": 7.6,
+  "release": 2006,
+  "fsk": 16,
+  "length": "1h 57m",
+  "description": "König Leonidas von Sparta und eine Streitmacht von 300 Mann bekämpfen die Perser in der Schlacht bei den Thermopylen im Jahr 480 v.Chr.",
+  "genres": [
+    "Action Epic",
+    "Sword & Sandal",
+    "Action",
+    "Drama"
+  ],
+  "regie": [
+    "Zack Snyder"
+  ],
+  "script": [
+    "Zack Snyder",
+    "Kurt Johnstad",
+    "Michael B. Gordon"
+  ],
+  "actors": [
+    "Gerard Butler",
+    "Lena Headey",
+    "David Wenham"
+  ],
+  "image": "tt0416449.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad247"
+  },
+  "url": "https://www.imdb.com/title/tt19770238/?ref_=sr_t_12",
+  "id": "tt19770238",
+  "title": "Aftersun",
+  "rating": 7.6,
+  "release": 2022,
+  "fsk": 12,
+  "length": "1h 42m",
+  "description": "Sophie denkt über die gemeinsame Freude und die private Melancholie eines Urlaubs nach, den sie zwanzig Jahre zuvor mit ihrem Vater verbracht hat.",
+  "genres": [
+    "Coming-of-Age",
+    "Teen Drama",
+    "Drama"
+  ],
+  "regie": [
+    "Charlotte Wells"
+  ],
+  "script": [
+    "Charlotte Wells"
+  ],
+  "actors": [
+    "Paul Mescal",
+    "Frankie Corio",
+    "Celia Rowlson-Hall"
+  ],
+  "image": "tt19770238.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad248"
+  },
+  "url": "https://www.imdb.com/title/tt0088680/?ref_=sr_t_13",
+  "id": "tt0088680",
+  "title": "Die Zeit nach Mitternacht",
+  "rating": 7.6,
+  "release": 1985,
+  "fsk": 12,
+  "length": "1h 37m",
+  "description": "Ein ganz normaler Programmierer erlebt die schlimmste Nacht seines Lebens, nachdem er sich einverstanden erklärt, eine junge Frau in Soho zu besuchen, die er am selben Nachtmittag in einem Café kennengelernt hat.",
+  "genres": [
+    "Dark Comedy",
+    "Screwball Comedy",
+    "Comedy",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "regie": [
+    "Martin Scorsese"
+  ],
+  "script": [
+    "Joseph Minion"
+  ],
+  "actors": [
+    "Griffin Dunne",
+    "Rosanna Arquette",
+    "Verna Bloom"
+  ],
+  "image": "tt0088680.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad249"
+  },
+  "url": "https://www.imdb.com/title/tt21192142/?ref_=sr_t_14",
+  "id": "tt21192142",
+  "title": "All of Us Strangers",
+  "rating": 7.6,
+  "release": 2023,
+  "fsk": 12,
+  "length": "1h 45m",
+  "description": "Ein Drehbuchautor, der nach einer Begegnung mit seinem Nachbarn in das Haus seiner Kindheit zurückversetzt wird, wo er feststellt, dass seine längst verstorbenen Eltern noch leben und genauso alt aussehen wie er.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "regie": [
+    "Andrew Haigh"
+  ],
+  "script": [
+    "Andrew Haigh",
+    "Taichi Yamada"
+  ],
+  "actors": [
+    "Andrew Scott",
+    "Paul Mescal",
+    "Carter John Grout"
+  ],
+  "image": "tt21192142.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad24a"
+  },
+  "url": "https://www.imdb.com/title/tt0289879/?ref_=sr_t_15",
+  "id": "tt0289879",
+  "title": "Butterfly Effect",
+  "rating": 7.6,
+  "release": 2004,
+  "fsk": 16,
+  "length": "1h 53m",
+  "description": "Evan Treborn erleidet bei wichtigen Ereignissen seines Lebens Stromausfälle. Während er erwachsen wird, findet er einen Weg, sich an diese verlorenen Erinnerungen zu erinnern und einen übernatürlichen Weg, sein Leben zu verändern, indem er sein Tagebuch liest.",
+  "genres": [
+    "Time Travel",
+    "Tragedy",
+    "Drama",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "regie": [
+    "Eric Bress",
+    "J. Mackye Gruber"
+  ],
+  "script": [
+    "J. Mackye Gruber",
+    "Eric Bress"
+  ],
+  "actors": [
+    "Ashton Kutcher",
+    "Amy Smart",
+    "Melora Walters"
+  ],
+  "image": "tt0289879.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad24b"
+  },
+  "url": "https://www.imdb.com/title/tt2582782/?ref_=sr_t_16",
+  "id": "tt2582782",
+  "title": "Hell or High Water",
+  "rating": 7.6,
+  "release": 2016,
+  "fsk": 12,
+  "length": "1h 42m",
+  "description": "Ein geschiedener Vater und sein Bruder, ein Ex-Sträfling, verfolgen einen verzweifelten Plan, um die Ranch ihrer Familie in West Texas zu retten.",
+  "genres": [
+    "Contemporary Western",
+    "Heist",
+    "Police Procedural",
+    "Tragedy",
+    "Crime",
+    "Drama",
+    "Thriller",
+    "Western"
+  ],
+  "regie": [
+    "David Mackenzie"
+  ],
+  "script": [
+    "Taylor Sheridan"
+  ],
+  "actors": [
+    "Chris Pine",
+    "Ben Foster",
+    "Jeff Bridges"
+  ],
+  "image": "tt2582782.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad24c"
+  },
+  "url": "https://www.imdb.com/title/tt0486655/?ref_=sr_t_17",
+  "id": "tt0486655",
+  "title": "Der Sternwanderer",
+  "rating": 7.6,
+  "release": 2007,
+  "fsk": 12,
+  "length": "2h 7m",
+  "description": "In einem ländlichen Städtchen, das an ein magisches Land grenzt, verspricht ein junger Mann seiner Geliebten, eine gefallene Sternschnuppe zu finden und sich dazu in das magische Reich zu wagen.",
+  "genres": [
+    "Fairy Tale",
+    "Fantasy Epic",
+    "Feel-Good Romance",
+    "Quest",
+    "Romantic Epic",
+    "Swashbuckler",
+    "Adventure",
+    "Family",
+    "Fantasy",
+    "Romance"
+  ],
+  "regie": [
+    "Matthew Vaughn"
+  ],
+  "script": [
+    "Jane Goldman",
+    "Matthew Vaughn",
+    "Neil Gaiman"
+  ],
+  "actors": [
+    "Charlie Cox",
+    "Claire Danes",
+    "Sienna Miller"
+  ],
+  "image": "tt0486655.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad24d"
+  },
+  "url": "https://www.imdb.com/title/tt0409459/?ref_=sr_t_18",
+  "id": "tt0409459",
+  "title": "Watchmen: Die Wächter",
+  "rating": 7.6,
+  "release": 2009,
+  "fsk": 16,
+  "length": "2h 42m",
+  "description": "1985 gibt es Superhelden wirklich, als die Ermordung eines Kollegen den Wachmann Rorschach in eine ausgedehnte Untersuchung verwickelt, bei der er etwas entdeckt, das den Verlauf der uns bekannten Geschichte vollständig ändern könnte.",
+  "genres": [
+    "Dystopian Sci-Fi",
+    "Superhero",
+    "Action",
+    "Drama",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "regie": [
+    "Zack Snyder"
+  ],
+  "script": [
+    "Dave Gibbons",
+    "David Hayter",
+    "Alex Tse"
+  ],
+  "actors": [
+    "Jackie Earle Haley",
+    "Patrick Wilson",
+    "Carla Gugino"
+  ],
+  "image": "tt0409459.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad24e"
+  },
+  "url": "https://www.imdb.com/title/tt0441773/?ref_=sr_t_19",
+  "id": "tt0441773",
+  "title": "Kung Fu Panda",
+  "rating": 7.6,
+  "release": 2008,
+  "fsk": 6,
+  "length": "1h 32m",
+  "description": "Der Drachenkrieger muss gegen die wilde Tai-Lunge antreten, da Chinas Schicksal auf dem Spiel steht. Allerdings soll der Drachenkriegermantel fälschlicherweise einem fettleibigen Panda verliehen worden sein, der ein Anfänger in den Kampfkünsten ist.",
+  "genres": [
+    "Animal Adventure",
+    "Computer Animation",
+    "Kung Fu",
+    "Martial Arts",
+    "Wuxia",
+    "Action",
+    "Adventure",
+    "Animation",
+    "Comedy",
+    "Family"
+  ],
+  "regie": [
+    "Mark Osborne",
+    "John Stevenson"
+  ],
+  "script": [
+    "Jonathan Aibel",
+    "Glenn Berger",
+    "Ethan Reiff"
+  ],
+  "actors": [
+    "Jack Black",
+    "Ian McShane",
+    "Angelina Jolie"
+  ],
+  "image": "tt0441773.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad24f"
+  },
+  "url": "https://www.imdb.com/title/tt1210166/?ref_=sr_t_20",
+  "id": "tt1210166",
+  "title": "Die Kunst zu gewinnen - Moneyball",
+  "rating": 7.6,
+  "release": 2011,
+  "fsk": 0,
+  "length": "2h 13m",
+  "description": "Der erfolgreiche Versuch des General Managers von Oakland A, Billy Beane, ein Baseballteam mit einem schlanken Budget zusammenzustellen,ndem er computergenerierte Analysen einsetzte, um neue Spieler zu gewinnen.",
+  "genres": [
+    "Baseball",
+    "Docudrama",
+    "Biography",
+    "Drama",
+    "Sport"
+  ],
+  "regie": [
+    "Bennett Miller"
+  ],
+  "script": [
+    "Steven Zaillian",
+    "Aaron Sorkin",
+    "Stan Chervin"
+  ],
+  "actors": [
+    "Brad Pitt",
+    "Robin Wright",
+    "Jonah Hill"
+  ],
+  "image": "tt1210166.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad250"
+  },
+  "url": "https://www.imdb.com/title/tt0361862/?ref_=sr_t_21",
+  "id": "tt0361862",
+  "title": "Der Maschinist",
+  "rating": 7.6,
+  "release": 2004,
+  "fsk": 16,
+  "length": "1h 41m",
+  "description": "Ein Industriearbeiter, der seit einem Jahr nicht mehr geschlafen hat, zweifelt an seinem eigenen Verstand.",
+  "genres": [
+    "Psychological Thriller",
+    "Drama",
+    "Thriller"
+  ],
+  "regie": [
+    "Brad Anderson"
+  ],
+  "script": [
+    "Scott Kosar"
+  ],
+  "actors": [
+    "Christian Bale",
+    "Jennifer Jason Leigh",
+    "Aitana Sánchez-Gijón"
+  ],
+  "image": "tt0361862.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad251"
+  },
+  "url": "https://www.imdb.com/title/tt0104691/?ref_=sr_t_22",
+  "id": "tt0104691",
+  "title": "Der letzte Mohikaner",
+  "rating": 7.6,
+  "release": 1992,
+  "fsk": 16,
+  "length": "1h 52m",
+  "description": "Drei Fallensteller beschützen die Töchter eines britischen Obersten inmitten des Französischen und des Indianer Krieges.",
+  "genres": [
+    "Action Epic",
+    "Epic",
+    "Romantic Epic",
+    "Tragedy",
+    "War Epic",
+    "Action",
+    "Adventure",
+    "Drama",
+    "Romance",
+    "War"
+  ],
+  "regie": [
+    "Michael Mann"
+  ],
+  "script": [
+    "James Fenimore Cooper",
+    "John L. Balderston",
+    "Paul Perez"
+  ],
+  "actors": [
+    "Daniel Day-Lewis",
+    "Madeleine Stowe",
+    "Russell Means"
+  ],
+  "image": "tt0104691.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad252"
+  },
+  "url": "https://www.imdb.com/title/tt0121766/?ref_=sr_t_23",
+  "id": "tt0121766",
+  "title": "Star Wars: Episode III - Die Rache der Sith",
+  "rating": 7.6,
+  "release": 2005,
+  "fsk": 12,
+  "length": "2h 20m",
+  "description": "Drei Jahre nach den Klonkriegen retten die Jedi den Palpatin vor Graf Dooku. Während Obi-Wan einer neuen Bedrohung nachgeht, fungiert Anakin als Doppelagent zwischen dem Jedi-Rat und Palpatine und wird in einen finsteren Plan zur Herrschaft über die Galaxie gelockt.",
+  "genres": [
+    "Action Epic",
+    "Adventure Epic",
+    "Dark Fantasy",
+    "Fantasy Epic",
+    "Sci-Fi Epic",
+    "Space Sci-Fi",
+    "Tragedy",
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "regie": [
+    "George Lucas"
+  ],
+  "script": [
+    "George Lucas"
+  ],
+  "actors": [
+    "Hayden Christensen",
+    "Natalie Portman",
+    "Ewan McGregor"
+  ],
+  "image": "tt0121766.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad253"
+  },
+  "url": "https://www.imdb.com/title/tt9071322/?ref_=sr_t_24",
+  "id": "tt9071322",
+  "title": "Vergiftete Wahrheit",
+  "rating": 7.6,
+  "release": 2019,
+  "fsk": 6,
+  "length": "2h 6m",
+  "description": "Ein korporativer Verteidiger nimmt eine Umweltklage gegen ein Chemieunternehmen an, das eine lange Geschichte der Verschmutzung aufdeckt.",
+  "genres": [
+    "Docudrama",
+    "Legal Drama",
+    "Biography",
+    "Drama",
+    "History",
+    "Mystery"
+  ],
+  "regie": [
+    "Todd Haynes"
+  ],
+  "script": [
+    "Nathaniel Rich",
+    "Mario Correa",
+    "Matthew Michael Carnahan"
+  ],
+  "actors": [
+    "Mark Ruffalo",
+    "Anne Hathaway",
+    "Tim Robbins"
+  ],
+  "image": "tt9071322.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad254"
+  },
+  "url": "https://www.imdb.com/title/tt0093870/?ref_=sr_t_25",
+  "id": "tt0093870",
+  "title": "RoboCop",
+  "rating": 7.6,
+  "release": 1987,
+  "fsk": null,
+  "length": "1h 42m",
+  "description": "In einem dystopischen und von Verbrechen heimgesuchten Detroit kehrt ein tödlich verwundeter Polizist als mächtiger Cyborg zurück, der von versunkenen Erinnerungen heimgesucht wird.",
+  "genres": [
+    "Cyberpunk",
+    "One-Person Army Action",
+    "Superhero",
+    "Action",
+    "Crime",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "regie": [
+    "Paul Verhoeven"
+  ],
+  "script": [
+    "Edward Neumeier",
+    "Michael Miner"
+  ],
+  "actors": [
+    "Peter Weller",
+    "Nancy Allen",
+    "Dan O'Herlihy"
+  ],
+  "image": "tt0093870.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad255"
+  },
+  "url": "https://www.imdb.com/title/tt0181689/?ref_=sr_t_26",
+  "id": "tt0181689",
+  "title": "Minority Report",
+  "rating": 7.6,
+  "release": 2002,
+  "fsk": 12,
+  "length": "2h 25m",
+  "description": "In einer Zukunft, in der eine spezielle Polizeieinheit Mörder festnehmen kann, bevor sie ihre Verbrechen begehen, wird ein Beamter dieser Einheit selbst eines zukünftigen Mordes beschuldigt.",
+  "genres": [
+    "Conspiracy Thriller",
+    "Cyber Thriller",
+    "Cyberpunk",
+    "Dystopian Sci-Fi",
+    "Psychological Thriller",
+    "Suspense Mystery",
+    "Action",
+    "Crime",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "regie": [
+    "Steven Spielberg"
+  ],
+  "script": [
+    "Scott Frank",
+    "Jon Cohen",
+    "Philip K. Dick"
+  ],
+  "actors": [
+    "Tom Cruise",
+    "Colin Farrell",
+    "Samantha Morton"
+  ],
+  "image": "tt0181689.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad256"
+  },
+  "url": "https://www.imdb.com/title/tt0381849/?ref_=sr_t_27",
+  "id": "tt0381849",
+  "title": "Todeszug nach Yuma",
+  "rating": 7.6,
+  "release": 2007,
+  "fsk": 16,
+  "length": "2h 2m",
+  "description": "Ein kleiner Rancher stimmt zu, einen gefangenen Gesetzlosen zu halten, der auf einen Zug wartet, der zum Gericht in Yuma fährt. Eine Willensschlacht folgt, als der Gesetzlose versucht, den Rancher auszuspionieren.",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Western"
+  ],
+  "regie": [
+    "James Mangold"
+  ],
+  "script": [
+    "Halsted Welles",
+    "Michael Brandt",
+    "Derek Haas"
+  ],
+  "actors": [
+    "Russell Crowe",
+    "Christian Bale",
+    "Ben Foster"
+  ],
+  "image": "tt0381849.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad257"
+  },
+  "url": "https://www.imdb.com/title/tt0104952/?ref_=sr_t_28",
+  "id": "tt0104952",
+  "title": "Mein Vetter Winnie",
+  "rating": 7.6,
+  "release": 1992,
+  "fsk": 6,
+  "length": "2h",
+  "description": "Zwei New Yorker werden des Mordes im ländlichen Alabama beschuldigt, während sie auf dem Weg zurück zum College sind, und einer ihrer Cousins - ein unerfahrener, großmäuliger Anwalt, der nicht an südliche Regeln und Manieren gewöhnt ist - kommt herein, um sie zu verteidigen.",
+  "genres": [
+    "Legal Drama",
+    "Comedy",
+    "Crime"
+  ],
+  "regie": [
+    "Jonathan Lynn"
+  ],
+  "script": [
+    "Dale Launer"
+  ],
+  "actors": [
+    "Joe Pesci",
+    "Marisa Tomei",
+    "Ralph Macchio"
+  ],
+  "image": "tt0104952.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad258"
+  },
+  "url": "https://www.imdb.com/title/tt1855199/?ref_=sr_t_29",
+  "id": "tt1855199",
+  "title": "End of Watch",
+  "rating": 7.6,
+  "release": 2012,
+  "fsk": 16,
+  "length": "1h 49m",
+  "description": "Dieser Film, der im dokumentarischen Stil gedreht wurde, folgt dem Alltag von zwei jungen Polizisten in LA, die Partner und Freunde sind, und was passiert, wenn sie auf kriminelle Kräfte treffen, die größer sind als sie selbst.",
+  "genres": [
+    "Cop Drama",
+    "Action",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "regie": [
+    "David Ayer"
+  ],
+  "script": [
+    "David Ayer"
+  ],
+  "actors": [
+    "Jake Gyllenhaal",
+    "Michael Peña",
+    "Anna Kendrick"
+  ],
+  "image": "tt1855199.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad259"
+  },
+  "url": "https://www.imdb.com/title/tt1979376/?ref_=sr_t_30",
+  "id": "tt1979376",
+  "title": "A Toy Story: Alles hört auf kein Kommando",
+  "rating": 7.6,
+  "release": 2019,
+  "fsk": 0,
+  "length": "1h 40m",
+  "description": "Als ein neues Spielzeug namens \"Forky\" mit Woody und der Bande zusammenkommt, offenbart ein Roadtrip mit alten und neuen Freunden, wie groß die Welt für ein Spielzeug sein kann.",
+  "genres": [
+    "Computer Animation",
+    "Road Trip",
+    "Supernatural Fantasy",
+    "Urban Adventure",
+    "Adventure",
+    "Animation",
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "regie": [
+    "Josh Cooley"
+  ],
+  "script": [
+    "John Lasseter",
+    "Andrew Stanton",
+    "Josh Cooley"
+  ],
+  "actors": [
+    "Tom Hanks",
+    "Tim Allen",
+    "Annie Potts"
+  ],
+  "image": "tt1979376.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad25a"
+  },
+  "url": "https://www.imdb.com/title/tt0120863/?ref_=sr_t_31",
+  "id": "tt0120863",
+  "title": "Der schmale Grat",
+  "rating": 7.6,
+  "release": 1998,
+  "fsk": 16,
+  "length": "2h 50m",
+  "description": "Verfilmung des autobiografischen Romans von James Jones aus dem Jahr 1962, in dessen Zentrum die Schlacht um Guadacanal im Zweiten Weltkrieg steht.",
+  "genres": [
+    "Historical Epic",
+    "War Epic",
+    "Drama",
+    "History",
+    "War"
+  ],
+  "regie": [
+    "Terrence Malick"
+  ],
+  "script": [
+    "James Jones",
+    "Terrence Malick"
+  ],
+  "actors": [
+    "Jim Caviezel",
+    "Sean Penn",
+    "Nick Nolte"
+  ],
+  "image": "tt0120863.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad25b"
+  },
+  "url": "https://www.imdb.com/title/tt1403865/?ref_=sr_t_32",
+  "id": "tt1403865",
+  "title": "True Grit - Vergeltung",
+  "rating": 7.6,
+  "release": 2010,
+  "fsk": 12,
+  "length": "1h 50m",
+  "description": "Ein harter US-Marshall hilft einer sturen Teenagerin, den Mörder ihres Vaters zu finden.",
+  "genres": [
+    "Period Drama",
+    "Drama",
+    "Western"
+  ],
+  "regie": [
+    "Ethan Coen",
+    "Joel Coen"
+  ],
+  "script": [
+    "Joel Coen",
+    "Ethan Coen",
+    "Charles Portis"
+  ],
+  "actors": [
+    "Jeff Bridges",
+    "Matt Damon",
+    "Hailee Steinfeld"
+  ],
+  "image": "tt1403865.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad25c"
+  },
+  "url": "https://www.imdb.com/title/tt1605783/?ref_=sr_t_33",
+  "id": "tt1605783",
+  "title": "Midnight in Paris",
+  "rating": 7.6,
+  "release": 2011,
+  "fsk": 0,
+  "length": "1h 34m",
+  "description": "Während einer Reise mit der Familie seiner Verlobten nach Paris findet sich ein nostalgischer Drehbuchautor auf mysteriöse Weise jeden Tag um Mitternacht in die 1920er-Jahre zurückversetzt.",
+  "genres": [
+    "Romantic Comedy",
+    "Comedy",
+    "Fantasy",
+    "Romance"
+  ],
+  "regie": [
+    "Woody Allen"
+  ],
+  "script": [
+    "Woody Allen"
+  ],
+  "actors": [
+    "Owen Wilson",
+    "Rachel McAdams",
+    "Kathy Bates"
+  ],
+  "image": "tt1605783.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad25d"
+  },
+  "url": "https://www.imdb.com/title/tt0144117/?ref_=sr_t_34",
+  "id": "tt0144117",
+  "title": "Der blutige Pfad Gottes",
+  "rating": 7.6,
+  "release": 1999,
+  "fsk": null,
+  "length": "1h 48m",
+  "description": "Zwei irisch-katholische Brüder werden zu Selbstjustizern und vernichten Bostons kriminelle Unterwelt im Namen Gottes.",
+  "genres": [
+    "Dark Comedy",
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "regie": [
+    "Troy Duffy"
+  ],
+  "script": [
+    "Troy Duffy"
+  ],
+  "actors": [
+    "Willem Dafoe",
+    "Sean Patrick Flanery",
+    "Norman Reedus"
+  ],
+  "image": "tt0144117.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad25e"
+  },
+  "url": "https://www.imdb.com/title/tt0878804/?ref_=sr_t_35",
+  "id": "tt0878804",
+  "title": "Blind Side - Die große Chance",
+  "rating": 7.6,
+  "release": 2009,
+  "fsk": 6,
+  "length": "2h 9m",
+  "description": "Die Geschichte von Michael Oher, einem obdachlosen und traumatisierten Jungen, der mit Hilfe einer fürsorglichen Frau und ihrer Familie ein Profi Football-Spieler wurde.",
+  "genres": [
+    "Football",
+    "Biography",
+    "Drama",
+    "Sport"
+  ],
+  "regie": [
+    "John Lee Hancock"
+  ],
+  "script": [
+    "John Lee Hancock",
+    "Michael Lewis"
+  ],
+  "actors": [
+    "Quinton Aaron",
+    "Sandra Bullock",
+    "Tim McGraw"
+  ],
+  "image": "tt0878804.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad25f"
+  },
+  "url": "https://www.imdb.com/title/tt1899353/?ref_=sr_t_36",
+  "id": "tt1899353",
+  "title": "The Raid",
+  "rating": 7.6,
+  "release": 2011,
+  "fsk": 18,
+  "length": "1h 41m",
+  "description": "Ein SWAT-Team wird in einem Hochhaus eingeschlossen, das von einem skrupellosen Gangster und seiner Armee von Mördern und Verbrechern besetzt ist.",
+  "genres": [
+    "Gun Fu",
+    "Martial Arts",
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "regie": [
+    "Gareth Evans"
+  ],
+  "script": [
+    "Gareth Evans"
+  ],
+  "actors": [
+    "Iko Uwais",
+    "Ananda George",
+    "Ray Sahetapy"
+  ],
+  "image": "tt1899353.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad260"
+  },
+  "url": "https://www.imdb.com/title/tt0452623/?ref_=sr_t_37",
+  "id": "tt0452623",
+  "title": "Gone Baby Gone - Kein Kinderspiel",
+  "rating": 7.6,
+  "release": 2007,
+  "fsk": 16,
+  "length": "1h 54m",
+  "description": "Zwei Bostoner Detektive untersuchen die Entführung eines Mädchens, was letztendlich beruflich und persönlich zu einer Krise führt.",
+  "genres": [
+    "Police Procedural",
+    "Psychological Thriller",
+    "Whodunnit",
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "regie": [
+    "Ben Affleck"
+  ],
+  "script": [
+    "Ben Affleck",
+    "Aaron Stockard",
+    "Dennis Lehane"
+  ],
+  "actors": [
+    "Morgan Freeman",
+    "Ed Harris",
+    "Casey Affleck"
+  ],
+  "image": "tt0452623.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad261"
+  },
+  "url": "https://www.imdb.com/title/tt0024184/?ref_=sr_t_38",
+  "id": "tt0024184",
+  "title": "Der Unsichtbare",
+  "rating": 7.6,
+  "release": 1933,
+  "fsk": 16,
+  "length": "1h 11m",
+  "description": "Ein Wissenschaftler entdeckt ein Verfahren, das ihn unsichtbar macht, gleichzeitig jedoch auch in einen mordgierigen Verrückten verwandelt.",
+  "genres": [
+    "Body Horror",
+    "Psychological Horror",
+    "Slasher Horror",
+    "Supernatural Horror",
+    "Horror",
+    "Sci-Fi"
+  ],
+  "regie": [
+    "James Whale"
+  ],
+  "script": [
+    "H.G. Wells",
+    "R.C. Sherriff",
+    "Preston Sturges"
+  ],
+  "actors": [
+    "Claude Rains",
+    "Gloria Stuart",
+    "William Harrigan"
+  ],
+  "image": "tt0024184.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad262"
+  },
+  "url": "https://www.imdb.com/title/tt7979580/?ref_=sr_t_39",
+  "id": "tt7979580",
+  "title": "Die Mitchells gegen die Maschinen",
+  "rating": 7.6,
+  "release": 2021,
+  "fsk": 6,
+  "length": "1h 54m",
+  "description": "Der Roadtrip einer schrulligen, gestörten Familie gerät aus den Fugen, als sie sich mitten in der Roboter-Apokalypse wiederfinden und plötzlich zur letzten Hoffnung der Menschheit werden.",
+  "genres": [
+    "Artificial Intelligence",
+    "Computer Animation",
+    "Quirky Comedy",
+    "Road Trip",
+    "Adventure",
+    "Animation",
+    "Comedy",
+    "Family",
+    "Sci-Fi"
+  ],
+  "regie": [
+    "Michael Rianda",
+    "Jeff Rowe"
+  ],
+  "script": [
+    "Michael Rianda",
+    "Jeff Rowe",
+    "Peter Szilagyi"
+  ],
+  "actors": [
+    "Abbi Jacobson",
+    "Danny McBride",
+    "Maya Rudolph"
+  ],
+  "image": "tt7979580.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad263"
+  },
+  "url": "https://www.imdb.com/title/tt0876563/?ref_=sr_t_40",
+  "id": "tt0876563",
+  "title": "Ponyo: Das grosse Abenteuer am Meer",
+  "rating": 7.6,
+  "release": 2008,
+  "fsk": 0,
+  "length": "1h 41m",
+  "description": "Ein fünfjähriger Junge entwickelt eine Beziehung zu Ponyo, einer Goldfischprinzessin, die sich in ihn verliebt und danach sehnt, ein Mensch zu werden.",
+  "genres": [
+    "Anime",
+    "Iyashikei",
+    "Sea Adventure",
+    "Adventure",
+    "Animation",
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "regie": [
+    "Hayao Miyazaki"
+  ],
+  "script": [
+    "Hayao Miyazaki"
+  ],
+  "actors": [
+    "Cate Blanchett",
+    "Matt Damon",
+    "Liam Neeson"
+  ],
+  "image": "tt0876563.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad264"
+  },
+  "url": "https://www.imdb.com/title/tt0315733/?ref_=sr_t_41",
+  "id": "tt0315733",
+  "title": "21 Gramm",
+  "rating": 7.6,
+  "release": 2003,
+  "fsk": 12,
+  "length": "2h 4m",
+  "description": "Ein außergewöhnlicher Unfall führt einen schwer kranken Mathematiker, eine trauernde Mutter und einen wiedergeborenen ehemaligen Sträfling zusammen.",
+  "genres": [
+    "Tragedy",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "regie": [
+    "Alejandro G. Iñárritu"
+  ],
+  "script": [
+    "Guillermo Arriaga"
+  ],
+  "actors": [
+    "Sean Penn",
+    "Benicio Del Toro",
+    "Naomi Watts"
+  ],
+  "image": "tt0315733.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad265"
+  },
+  "url": "https://www.imdb.com/title/tt0128445/?ref_=sr_t_42",
+  "id": "tt0128445",
+  "title": "Rushmore",
+  "rating": 7.6,
+  "release": 1998,
+  "fsk": 6,
+  "length": "1h 33m",
+  "description": "Der König der Rushmore Preparatory School wird auf akademische Probe gestellt.",
+  "genres": [
+    "Coming-of-Age",
+    "Quirky Comedy",
+    "Teen Comedy",
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "regie": [
+    "Wes Anderson"
+  ],
+  "script": [
+    "Wes Anderson",
+    "Owen Wilson"
+  ],
+  "actors": [
+    "Jason Schwartzman",
+    "Bill Murray",
+    "Olivia Williams"
+  ],
+  "image": "tt0128445.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad266"
+  },
+  "url": "https://www.imdb.com/title/tt0061395/?ref_=sr_t_43",
+  "id": "tt0061395",
+  "title": "Belle de jour - Schöne des Tages",
+  "rating": 7.6,
+  "release": 1967,
+  "fsk": 18,
+  "length": "1h 40m",
+  "description": "Eine als frigide erachtete junge Hausfrau beschließt, unter der Woche nachmittags als Prostituierte zu arbeiten.",
+  "genres": [
+    "Steamy Romance",
+    "Drama",
+    "Romance"
+  ],
+  "regie": [
+    "Luis Buñuel"
+  ],
+  "script": [
+    "Joseph Kessel",
+    "Luis Buñuel",
+    "Jean-Claude Carrière"
+  ],
+  "actors": [
+    "Catherine Deneuve",
+    "Jean Sorel",
+    "Michel Piccoli"
+  ],
+  "image": "tt0061395.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad267"
+  },
+  "url": "https://www.imdb.com/title/tt0455590/?ref_=sr_t_44",
+  "id": "tt0455590",
+  "title": "Der letzte König von Schottland - In den Fängen der Macht",
+  "rating": 7.6,
+  "release": 2006,
+  "fsk": 16,
+  "length": "2h 3m",
+  "description": "Basierend auf den Ereignissen des brutalen ugandischen Diktators Idi Amin Regime, wie es sein Leibarzt in den 1970er Jahren gesehen hat.",
+  "genres": [
+    "Historical Epic",
+    "Political Drama",
+    "Biography",
+    "Drama",
+    "History",
+    "Thriller"
+  ],
+  "regie": [
+    "Kevin Macdonald"
+  ],
+  "script": [
+    "Peter Morgan",
+    "Jeremy Brock",
+    "Giles Foden"
+  ],
+  "actors": [
+    "James McAvoy",
+    "Forest Whitaker",
+    "Gillian Anderson"
+  ],
+  "image": "tt0455590.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad268"
+  },
+  "url": "https://www.imdb.com/title/tt0112579/?ref_=sr_t_45",
+  "id": "tt0112579",
+  "title": "Die Brücken am Fluss",
+  "rating": 7.6,
+  "release": 1995,
+  "fsk": 12,
+  "length": "2h 15m",
+  "description": "Der Fotograf Robert Kincaid bereichert in den 1960er Jahren vier Tage lang das Leben der Hausfrau Francesca Johnson.",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "regie": [
+    "Clint Eastwood"
+  ],
+  "script": [
+    "Richard LaGravenese",
+    "Robert James Waller"
+  ],
+  "actors": [
+    "Clint Eastwood",
+    "Meryl Streep",
+    "Annie Corley"
+  ],
+  "image": "tt0112579.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad269"
+  },
+  "url": "https://www.imdb.com/title/tt0130827/?ref_=sr_t_46",
+  "id": "tt0130827",
+  "title": "Lola rennt",
+  "rating": 7.6,
+  "release": 1998,
+  "fsk": 12,
+  "length": "1h 21m",
+  "description": "Nach einer missglückten Geldübergabe bleiben Lola noch 20 Minuten, 100.000 D-Mark aufzutreiben.",
+  "genres": [
+    "Dark Comedy",
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "regie": [
+    "Tom Tykwer"
+  ],
+  "script": [
+    "Tom Tykwer"
+  ],
+  "actors": [
+    "Franka Potente",
+    "Moritz Bleibtreu",
+    "Herbert Knaup"
+  ],
+  "image": "tt0130827.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad26a"
+  },
+  "url": "https://www.imdb.com/title/tt1306980/?ref_=sr_t_47",
+  "id": "tt1306980",
+  "title": "50/50: Freunde fürs (Über)Leben",
+  "rating": 7.6,
+  "release": 2011,
+  "fsk": 12,
+  "length": "1h 40m",
+  "description": "Komödie nach einer wahren Geschichte: Ein 27-jähriger Mann erfährt von seiner Krebsdiagnose und kämpft anschließend mit allen Mitteln gegen die Krankheit.",
+  "genres": [
+    "Medical Drama",
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "regie": [
+    "Jonathan Levine"
+  ],
+  "script": [
+    "Will Reiser"
+  ],
+  "actors": [
+    "Joseph Gordon-Levitt",
+    "Seth Rogen",
+    "Anna Kendrick"
+  ],
+  "image": "tt1306980.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad26b"
+  },
+  "url": "https://www.imdb.com/title/tt0048545/?ref_=sr_t_48",
+  "id": "tt0048545",
+  "title": "...denn sie wissen nicht, was sie tun",
+  "rating": 7.6,
+  "release": 1955,
+  "fsk": 12,
+  "length": "1h 51m",
+  "description": "Ein rebellischer junger Mann mit einer bewegten Vergangenheit kommt in eine neue Stadt und findet dort Freunde und Feinde.",
+  "genres": [
+    "Coming-of-Age",
+    "Teen Drama",
+    "Drama"
+  ],
+  "regie": [
+    "Nicholas Ray"
+  ],
+  "script": [
+    "Stewart Stern",
+    "Irving Shulman",
+    "Nicholas Ray"
+  ],
+  "actors": [
+    "James Dean",
+    "Natalie Wood",
+    "Sal Mineo"
+  ],
+  "image": "tt0048545.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad26c"
+  },
+  "url": "https://www.imdb.com/title/tt0101410/?ref_=sr_t_49",
+  "id": "tt0101410",
+  "title": "Barton Fink",
+  "rating": 7.6,
+  "release": 1991,
+  "fsk": 16,
+  "length": "1h 56m",
+  "description": "Ein renommierter New Yorker Bühnenautor lässt sich von einem Angebot nach Kalifornien locken, um dort für den Film zu arbeiten, und lernt dabei die infernalischen Abgründe Hollywoods kennen.",
+  "genres": [
+    "Dark Comedy",
+    "Farce",
+    "Period Drama",
+    "Psychological Drama",
+    "Psychological Thriller",
+    "Satire",
+    "Showbiz Drama",
+    "Comedy",
+    "Drama",
+    "Thriller"
+  ],
+  "regie": [
+    "Joel Coen",
+    "Ethan Coen"
+  ],
+  "script": [
+    "Joel Coen",
+    "Ethan Coen"
+  ],
+  "actors": [
+    "John Turturro",
+    "John Goodman",
+    "Judy Davis"
+  ],
+  "image": "tt0101410.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad26d"
+  },
+  "url": "https://www.imdb.com/title/tt0108122/?ref_=sr_t_50",
+  "id": "tt0108122",
+  "title": "Short Cuts",
+  "rating": 7.6,
+  "release": 1993,
+  "fsk": 16,
+  "length": "3h 8m",
+  "description": "Das Alltagsleben mehrerer Vorortbewohner aus Los Angeles.",
+  "genres": [
+    "Dark Comedy",
+    "Satire",
+    "Tragedy",
+    "Comedy",
+    "Drama"
+  ],
+  "regie": [
+    "Robert Altman"
+  ],
+  "script": [
+    "Raymond Carver",
+    "Robert Altman",
+    "Frank Barhydt"
+  ],
+  "actors": [
+    "Andie MacDowell",
+    "Julianne Moore",
+    "Tim Robbins"
+  ],
+  "image": "tt0108122.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad26e"
+  },
+  "url": "https://www.imdb.com/title/tt0870111/?ref_=sr_t_51",
+  "id": "tt0870111",
+  "title": "Frost/Nixon",
+  "rating": 7.6,
+  "release": 2008,
+  "fsk": 6,
+  "length": "2h 2m",
+  "description": "Eine spannende Nacherzählung der Fernsehinterviews zwischen dem britischen Talkmaster David Frost und dem ehemaligen Präsidenten Richard Nixon nach Watergate.",
+  "genres": [
+    "Docudrama",
+    "Political Drama",
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "regie": [
+    "Ron Howard"
+  ],
+  "script": [
+    "Peter Morgan"
+  ],
+  "actors": [
+    "Frank Langella",
+    "Michael Sheen",
+    "Kevin Bacon"
+  ],
+  "image": "tt0870111.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad26f"
+  },
+  "url": "https://www.imdb.com/title/tt1754656/?ref_=sr_t_52",
+  "id": "tt1754656",
+  "title": "Der kleine Prinz",
+  "rating": 7.6,
+  "release": 2015,
+  "fsk": 0,
+  "length": "1h 48m",
+  "description": "Ein kleines Mädchen lebt in der streng durchorganisierten Welt ihrer Mutter, die versucht, ihre Tochter auf das Erwachsenendasein vorzubereiten. Ihr Nachbar, ein Pilot, führt das Mädchen in eine außergewöhnliche Welt ein, in der alles möglich ist, die Welt des Kleinen Prinzen.",
+  "genres": [
+    "Coming-of-Age",
+    "Computer Animation",
+    "Fantasy Epic",
+    "Globetrotting Adventure",
+    "Stop Motion Animation",
+    "Adventure",
+    "Animation",
+    "Drama",
+    "Family",
+    "Fantasy"
+  ],
+  "regie": [
+    "Mark Osborne"
+  ],
+  "script": [
+    "Irena Brignull",
+    "Bob Persichetti",
+    "Antoine de Saint-Exupéry"
+  ],
+  "actors": [
+    "Jeff Bridges",
+    "Mackenzie Foy",
+    "Rachel McAdams"
+  ],
+  "image": "tt1754656.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad270"
+  },
+  "url": "https://www.imdb.com/title/tt0421082/?ref_=sr_t_53",
+  "id": "tt0421082",
+  "title": "Control",
+  "rating": 7.6,
+  "release": 2007,
+  "fsk": 12,
+  "length": "2h 2m",
+  "description": "Ein Porträt über Ian Curtis, den geheimnisvollen Sänger von Joy Division, dessen persönliche, berufliche und romantische Probleme dazu führten, dass er mit 23 Jahren Selbstmord beging.",
+  "genres": [
+    "Biography",
+    "Drama",
+    "Music"
+  ],
+  "regie": [
+    "Anton Corbijn"
+  ],
+  "script": [
+    "Deborah Curtis",
+    "Matt Greenhalgh"
+  ],
+  "actors": [
+    "Sam Riley",
+    "Samantha Morton",
+    "Craig Parkinson"
+  ],
+  "image": "tt0421082.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad271"
+  },
+  "url": "https://www.imdb.com/title/tt0077651/?ref_=sr_t_54",
+  "id": "tt0077651",
+  "title": "Halloween - Die Nacht des Grauens",
+  "rating": 7.7,
+  "release": 1978,
+  "fsk": 16,
+  "length": "1h 31m",
+  "description": "Fünfzehn Jahre, nachdem er seine Schwester in der Halloweennacht 1963 ermordet hat, flieht Michael Myers aus einer Nervenheilanstalt und kehrt in die Kleinstadt Haddonfield zurück, um erneut zu töten.",
+  "genres": [
+    "B-Horror",
+    "Slasher Horror",
+    "Teen Horror",
+    "Horror",
+    "Thriller"
+  ],
+  "regie": [
+    "John Carpenter"
+  ],
+  "script": [
+    "John Carpenter",
+    "Debra Hill"
+  ],
+  "actors": [
+    "Donald Pleasence",
+    "Jamie Lee Curtis",
+    "Tony Moran"
+  ],
+  "image": "tt0077651.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad272"
+  },
+  "url": "https://www.imdb.com/title/tt0443706/?ref_=sr_t_55",
+  "id": "tt0443706",
+  "title": "Zodiac: Die Spur des Killers",
+  "rating": 7.7,
+  "release": 2007,
+  "fsk": 16,
+  "length": "2h 37m",
+  "description": "In den späten 1960er / frühen 1970er Jahren wird ein Karikaturist aus San Francisco ein Amateurdetektiv, der davon besessen ist, den Zodiac Killer aufzuspüren, ein nicht identifiziertes Individuum, das Nordkalifornien mit einem Amoklauf terrorisiert.",
+  "genres": [
+    "Cop Drama",
+    "Epic",
+    "Police Procedural",
+    "Psychological Thriller",
+    "Serial Killer",
+    "True Crime",
+    "Whodunnit",
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "regie": [
+    "David Fincher"
+  ],
+  "script": [
+    "James Vanderbilt",
+    "Robert Graysmith"
+  ],
+  "actors": [
+    "Jake Gyllenhaal",
+    "Robert Downey Jr.",
+    "Mark Ruffalo"
+  ],
+  "image": "tt0443706.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad273"
+  },
+  "url": "https://www.imdb.com/title/tt0089218/?ref_=sr_t_56",
+  "id": "tt0089218",
+  "title": "Die Goonies",
+  "rating": 7.7,
+  "release": 1985,
+  "fsk": 12,
+  "length": "1h 54m",
+  "description": "Um ihr Zuhause vor der Zwangsvollstreckung zu retten, macht sich eine Gruppe Außenseiter auf, den alten wertvollen Schatz eines Piraten zu finden.",
+  "genres": [
+    "Quest",
+    "Teen Adventure",
+    "Teen Comedy",
+    "Adventure",
+    "Comedy",
+    "Family"
+  ],
+  "regie": [
+    "Richard Donner"
+  ],
+  "script": [
+    "Chris Columbus",
+    "Steven Spielberg"
+  ],
+  "actors": [
+    "Sean Astin",
+    "Josh Brolin",
+    "Jeff Cohen"
+  ],
+  "image": "tt0089218.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad274"
+  },
+  "url": "https://www.imdb.com/title/tt0330373/?ref_=sr_t_57",
+  "id": "tt0330373",
+  "title": "Harry Potter und der Feuerkelch",
+  "rating": 7.7,
+  "release": 2005,
+  "fsk": 12,
+  "length": "2h 37m",
+  "description": "Harry wird auf mysteriöse Weise zu einem gefährlichen Turnier zwischen drei Zauberschulen zugelassen, obwohl er die erforderliche Altersgrenze nicht erfüllt.",
+  "genres": [
+    "Sword & Sorcery",
+    "Teen Adventure",
+    "Teen Fantasy",
+    "Adventure",
+    "Family",
+    "Fantasy",
+    "Mystery"
+  ],
+  "regie": [
+    "Mike Newell"
+  ],
+  "script": [
+    "Steve Kloves",
+    "J.K. Rowling"
+  ],
+  "actors": [
+    "Daniel Radcliffe",
+    "Emma Watson",
+    "Rupert Grint"
+  ],
+  "image": "tt0330373.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad275"
+  },
+  "url": "https://www.imdb.com/title/tt10366206/?ref_=sr_t_58",
+  "id": "tt10366206",
+  "title": "John Wick: Kapitel 4",
+  "rating": 7.7,
+  "release": 2023,
+  "fsk": 18,
+  "length": "2h 49m",
+  "description": "Die anhaltenden Abenteuer des Attentäters John Wick.",
+  "genres": [
+    "Action Epic",
+    "Gun Fu",
+    "One-Person Army Action",
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "regie": [
+    "Chad Stahelski"
+  ],
+  "script": [
+    "Shay Hatten",
+    "Michael Finch",
+    "Derek Kolstad"
+  ],
+  "actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "George Georgiou"
+  ],
+  "image": "tt10366206.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad276"
+  },
+  "url": "https://www.imdb.com/title/tt0099785/?ref_=sr_t_59",
+  "id": "tt0099785",
+  "title": "Kevin - Allein zu Haus",
+  "rating": 7.7,
+  "release": 1990,
+  "fsk": 12,
+  "length": "1h 43m",
+  "description": "Ein achtjähriger Lausebengel muss während der Weihnachtsferien sein Haus vor zwei Einbrechern schützen, da er versehentlich von seiner Familie allein zu Hause gelassen wurde.",
+  "genres": [
+    "High-Concept Comedy",
+    "Holiday Comedy",
+    "Holiday Family",
+    "Slapstick",
+    "Comedy",
+    "Family",
+    "Holiday"
+  ],
+  "regie": [
+    "Chris Columbus"
+  ],
+  "script": [
+    "John Hughes"
+  ],
+  "actors": [
+    "Macaulay Culkin",
+    "Joe Pesci",
+    "Daniel Stern"
+  ],
+  "image": "tt0099785.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad277"
+  },
+  "url": "https://www.imdb.com/title/tt5362988/?ref_=sr_t_60",
+  "id": "tt5362988",
+  "title": "Wind River",
+  "rating": 7.7,
+  "release": 2017,
+  "fsk": 16,
+  "length": "1h 47m",
+  "description": "Eine FBI-Agentin tut sich mit einem Wildtierjäger zusammen, um einen Mord in einem Indianerreservat aufzuklären.",
+  "genres": [
+    "Contemporary Western",
+    "Cop Drama",
+    "Tragedy",
+    "Whodunnit",
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller",
+    "Western"
+  ],
+  "regie": [
+    "Taylor Sheridan"
+  ],
+  "script": [
+    "Taylor Sheridan"
+  ],
+  "actors": [
+    "Elizabeth Olsen",
+    "Jeremy Renner",
+    "Graham Greene"
+  ],
+  "image": "tt5362988.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad278"
+  },
+  "url": "https://www.imdb.com/title/tt1119646/?ref_=sr_t_61",
+  "id": "tt1119646",
+  "title": "Hangover",
+  "rating": 7.7,
+  "release": 2009,
+  "fsk": 12,
+  "length": "1h 40m",
+  "description": "Drei Freunde wachen nach einer Junggesellenabschiedsparty in Las Vegas auf, ohne jede Erinnerung an die letzte Nacht und ohne den Bräutigam. Sie begeben sich auf die Suche in der Stadt, um ihren Freund vor seiner Hochzeit zu finden.",
+  "genres": [
+    "Raunchy Comedy",
+    "Comedy"
+  ],
+  "regie": [
+    "Todd Phillips"
+  ],
+  "script": [
+    "Jon Lucas",
+    "Scott Moore"
+  ],
+  "actors": [
+    "Zach Galifianakis",
+    "Bradley Cooper",
+    "Justin Bartha"
+  ],
+  "image": "tt1119646.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad279"
+  },
+  "url": "https://www.imdb.com/title/tt23289160/?ref_=sr_t_62",
+  "id": "tt23289160",
+  "title": "Godzilla Minus One",
+  "rating": 7.7,
+  "release": 2023,
+  "fsk": 12,
+  "length": "2h 4m",
+  "description": "Godzilla taucht unerwartet in Japan auf, das nach dem Krieg ohnehin in Schutt und Asche liegt. Werden die verzweifelten Menschen einen Weg finden, zu überleben und zurückzuschlagen?",
+  "genres": [
+    "Action Epic",
+    "Adventure Epic",
+    "Epic",
+    "Kaiju",
+    "Monster Horror",
+    "Period Drama",
+    "Sci-Fi Epic",
+    "Supernatural Horror",
+    "Tragedy",
+    "Action"
+  ],
+  "regie": [
+    "Takashi Yamazaki"
+  ],
+  "script": [
+    "Takashi Yamazaki",
+    "Ishirô Honda",
+    "Takeo Murata"
+  ],
+  "actors": [
+    "Munetaka Aoki",
+    "Minami Hamabe",
+    "Ryunosuke Kamiki"
+  ],
+  "image": "tt23289160.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad27a"
+  },
+  "url": "https://www.imdb.com/title/tt9603212/?ref_=sr_t_63",
+  "id": "tt9603212",
+  "title": "Mission: Impossible - Dead Reckoning Teil Eins",
+  "rating": 7.7,
+  "release": 2023,
+  "fsk": 12,
+  "length": "2h 43m",
+  "description": "Ethan Hunt und sein Team müssen zwei Teile eines Schlüssels sicherstellen, um die Kontrolle über eine KI zu erlangen, die auf dem Meeresgrund liegt und ums Überleben kämpft.",
+  "genres": [
+    "Action Epic",
+    "Adventure Epic",
+    "Spy",
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "regie": [
+    "Christopher McQuarrie"
+  ],
+  "script": [
+    "Bruce Geller",
+    "Christopher McQuarrie",
+    "Erik Jendresen"
+  ],
+  "actors": [
+    "Tom Cruise",
+    "Hayley Atwell",
+    "Ving Rhames"
+  ],
+  "image": "tt9603212.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad27b"
+  },
+  "url": "https://www.imdb.com/title/tt0090756/?ref_=sr_t_64",
+  "id": "tt0090756",
+  "title": "Blue Velvet",
+  "rating": 7.7,
+  "release": 1986,
+  "fsk": 18,
+  "length": "2h",
+  "description": "Ein abgetrenntes menschliches Ohr, das er auf einem Feld gefunden hat, führt einen jungen Mann zu einer schönen, geheimnisvollen Nachtclub-Sängerin und einer Gruppe psychopathischer Verbrecher, die deren Kind entführt hat.",
+  "genres": [
+    "Erotic Thriller",
+    "Psychological Thriller",
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "regie": [
+    "David Lynch"
+  ],
+  "script": [
+    "David Lynch"
+  ],
+  "actors": [
+    "Isabella Rossellini",
+    "Kyle MacLachlan",
+    "Dennis Hopper"
+  ],
+  "image": "tt0090756.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad27c"
+  },
+  "url": "https://www.imdb.com/title/tt0926084/?ref_=sr_t_65",
+  "id": "tt0926084",
+  "title": "Harry Potter und die Heiligtümer des Todes - Teil 1",
+  "rating": 7.7,
+  "release": 2010,
+  "fsk": 12,
+  "length": "2h 26m",
+  "description": "Im Wettlauf mit der Zeit und gegen das Böse, die Horkruxen zu zerstören, enthüllt Harry die Existenz der drei mächtigsten Objekte der Zauberwelt: die Heiligtümer des Todes.",
+  "genres": [
+    "Dark Fantasy",
+    "Supernatural Fantasy",
+    "Sword & Sorcery",
+    "Teen Adventure",
+    "Teen Fantasy",
+    "Adventure",
+    "Family",
+    "Fantasy",
+    "Mystery"
+  ],
+  "regie": [
+    "David Yates"
+  ],
+  "script": [
+    "Steve Kloves",
+    "J.K. Rowling"
+  ],
+  "actors": [
+    "Daniel Radcliffe",
+    "Emma Watson",
+    "Rupert Grint"
+  ],
+  "image": "tt0926084.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad27d"
+  },
+  "url": "https://www.imdb.com/title/tt17009710/?ref_=sr_t_66",
+  "id": "tt17009710",
+  "title": "Anatomie eines Falls",
+  "rating": 7.7,
+  "release": 2023,
+  "fsk": 12,
+  "length": "2h 31m",
+  "description": "Eine Frau wird des Mordes an ihrem Mann verdächtigt, und ihr blinder Sohn steht als einziger Zeuge vor einem moralischen Dilemma.",
+  "genres": [
+    "Legal Drama",
+    "Legal Thriller",
+    "Psychological Drama",
+    "Psychological Thriller",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "regie": [
+    "Justine Triet"
+  ],
+  "script": [
+    "Justine Triet",
+    "Arthur Harari"
+  ],
+  "actors": [
+    "Sandra Hüller",
+    "Swann Arlaud",
+    "Milo Machado-Graner"
+  ],
+  "image": "tt17009710.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad27e"
+  },
+  "url": "https://www.imdb.com/title/tt2802144/?ref_=sr_t_67",
+  "id": "tt2802144",
+  "title": "Kingsman: The Secret Service",
+  "rating": 7.7,
+  "release": 2014,
+  "fsk": 16,
+  "length": "2h 9m",
+  "description": "Eine Spionageorganisation nimmt einen unkultivierten, aber vielversprechenden Straßenjungen in ihr hochkompetitives Trainingsprogramm auf, währenddessen ein durchgedrehtes Technikgenie eine globale Bedrohung entstehen lässt.",
+  "genres": [
+    "Gun Fu",
+    "Spy",
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Thriller"
+  ],
+  "regie": [
+    "Matthew Vaughn"
+  ],
+  "script": [
+    "Jane Goldman",
+    "Matthew Vaughn",
+    "Mark Millar"
+  ],
+  "actors": [
+    "Colin Firth",
+    "Taron Egerton",
+    "Samuel L. Jackson"
+  ],
+  "image": "tt2802144.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad27f"
+  },
+  "url": "https://www.imdb.com/title/tt0388795/?ref_=sr_t_68",
+  "id": "tt0388795",
+  "title": "Brokeback Mountain",
+  "rating": 7.7,
+  "release": 2005,
+  "fsk": 12,
+  "length": "2h 14m",
+  "description": "Die Geschichte einer verbotenen und geheimen Beziehung zwischen zwei Cowboys und deren Lebenswegen im Laufe der Jahre.",
+  "genres": [
+    "Contemporary Western",
+    "Steamy Romance",
+    "Tragedy",
+    "Tragic Romance",
+    "Drama",
+    "Romance"
+  ],
+  "regie": [
+    "Ang Lee"
+  ],
+  "script": [
+    "Annie Proulx",
+    "Larry McMurtry",
+    "Diana Ossana"
+  ],
+  "actors": [
+    "Jake Gyllenhaal",
+    "Heath Ledger",
+    "Michelle Williams"
+  ],
+  "image": "tt0388795.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad280"
+  },
+  "url": "https://www.imdb.com/title/tt3397884/?ref_=sr_t_69",
+  "id": "tt3397884",
+  "title": "Sicario",
+  "rating": 7.7,
+  "release": 2015,
+  "fsk": 16,
+  "length": "2h 1m",
+  "description": "Eine idealistische FBI-Agentin wird einer Sondereinheit der Regierung zugeteilt, um diese im eskalierenden Kampf gegen Drogen im Grenzgebiet zwischen den USA und Mexiko zu unterstützen.",
+  "genres": [
+    "Contemporary Western",
+    "Cop Drama",
+    "Drug Crime",
+    "Action",
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "regie": [
+    "Denis Villeneuve"
+  ],
+  "script": [
+    "Taylor Sheridan"
+  ],
+  "actors": [
+    "Emily Blunt",
+    "Josh Brolin",
+    "Benicio Del Toro"
+  ],
+  "image": "tt3397884.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad281"
+  },
+  "url": "https://www.imdb.com/title/tt2278871/?ref_=sr_t_70",
+  "id": "tt2278871",
+  "title": "Blau ist eine warme Farbe",
+  "rating": 7.7,
+  "release": 2013,
+  "fsk": 16,
+  "length": "3h",
+  "description": "Adèles Leben wird auf den Kopf gestellt, als sie Emma trifft, eine junge Frau mit blauem Haar, die sie Sehnsüchte entdecken lässt und ihr erlaubt, zu sich selbst als Frau und als Erwachsene zu finden. Adele wird erwachsen, sucht sich, verliert sich und findet dank der Liebe und des Verlusts schließlich zu sich selbst zurück.",
+  "genres": [
+    "Coming-of-Age",
+    "Steamy Romance",
+    "Drama",
+    "Romance"
+  ],
+  "regie": [
+    "Abdellatif Kechiche"
+  ],
+  "script": [
+    "Abdellatif Kechiche",
+    "Ghalya Lacroix",
+    "Jul Maroh"
+  ],
+  "actors": [
+    "Léa Seydoux",
+    "Adèle Exarchopoulos",
+    "Salim Kechiouche"
+  ],
+  "image": "tt2278871.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad282"
+  },
+  "url": "https://www.imdb.com/title/tt1022603/?ref_=sr_t_71",
+  "id": "tt1022603",
+  "title": "(500) Days of Summer",
+  "rating": 7.7,
+  "release": 2009,
+  "fsk": 0,
+  "length": "1h 35m",
+  "description": "Eine ungewöhnliche romantische Komödie über einen jungen Mann, der sich in seine Arbeitskollegin verliebt, die nicht an wahre Liebe glaubt.",
+  "genres": [
+    "Quirky Comedy",
+    "Romantic Comedy",
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "regie": [
+    "Marc Webb"
+  ],
+  "script": [
+    "Scott Neustadter",
+    "Michael H. Weber"
+  ],
+  "actors": [
+    "Zooey Deschanel",
+    "Joseph Gordon-Levitt",
+    "Geoffrey Arend"
+  ],
+  "image": "tt1022603.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad283"
+  },
+  "url": "https://www.imdb.com/title/tt11813216/?ref_=sr_t_72",
+  "id": "tt11813216",
+  "title": "The Banshees of Inisherin",
+  "rating": 7.7,
+  "release": 2022,
+  "fsk": 16,
+  "length": "1h 54m",
+  "description": "Zwei Freunde, die ihr ganzes Leben miteinander verbracht haben, geraten in eine Sackgasse, als der eine ihre Beziehung abrupt beendet, was für beide Konsequenzen hat.",
+  "genres": [
+    "Dark Comedy",
+    "Period Drama",
+    "Psychological Drama",
+    "Tragedy",
+    "Comedy",
+    "Drama"
+  ],
+  "regie": [
+    "Martin McDonagh"
+  ],
+  "script": [
+    "Martin McDonagh"
+  ],
+  "actors": [
+    "Colin Farrell",
+    "Brendan Gleeson",
+    "Kerry Condon"
+  ],
+  "image": "tt11813216.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad284"
+  },
+  "url": "https://www.imdb.com/title/tt0092991/?ref_=sr_t_73",
+  "id": "tt0092991",
+  "title": "Tanz der Teufel 2 - Jetzt wird noch mehr getanzt",
+  "rating": 7.7,
+  "release": 1987,
+  "fsk": null,
+  "length": "1h 24m",
+  "description": "Der einzige Überlebende einer Attacke von Geistern, die von Menschen Besitz ergreifen, verkriecht sich mit einer Gruppe Fremder in einer Waldhütte, während die Dämonen ihren Angriff fortsetzen.",
+  "genres": [
+    "Dark Comedy",
+    "Slapstick",
+    "Slasher Horror",
+    "Splatter Horror",
+    "Supernatural Horror",
+    "Zombie Horror",
+    "Comedy",
+    "Horror"
+  ],
+  "regie": [
+    "Sam Raimi"
+  ],
+  "script": [
+    "Sam Raimi",
+    "Scott Spiegel"
+  ],
+  "actors": [
+    "Bruce Campbell",
+    "Sarah Berry",
+    "Dan Hicks"
+  ],
+  "image": "tt0092991.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad285"
+  },
+  "url": "https://www.imdb.com/title/tt0245844/?ref_=sr_t_74",
+  "id": "tt0245844",
+  "title": "Monte Cristo",
+  "rating": 7.7,
+  "release": 2002,
+  "fsk": 12,
+  "length": "2h 11m",
+  "description": "Ein junger Mann, fälschlicherweise von seinem eifersüchtigen \"Freund\" eingesperrt, entkommt und benutzt einen versteckten Schatz, um seine Rache zu vollziehen.",
+  "genres": [
+    "Period Drama",
+    "Swashbuckler",
+    "Action",
+    "Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "regie": [
+    "Kevin Reynolds"
+  ],
+  "script": [
+    "Alexandre Dumas",
+    "Jay Wolpert"
+  ],
+  "actors": [
+    "Jim Caviezel",
+    "Guy Pearce",
+    "Christopher Adamson"
+  ],
+  "image": "tt0245844.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad286"
+  },
+  "url": "https://www.imdb.com/title/tt0104257/?ref_=sr_t_75",
+  "id": "tt0104257",
+  "title": "Eine Frage der Ehre",
+  "rating": 7.7,
+  "release": 1992,
+  "fsk": 12,
+  "length": "2h 18m",
+  "description": "Militäranwalt Leutnant Daniel Kaffee verteidigt Marines, die wegen Mordes angeklagt sind. Sie behaupten, dass sie auf Befehl gehandelt hätten.",
+  "genres": [
+    "Legal Drama",
+    "Legal Thriller",
+    "Drama",
+    "Thriller"
+  ],
+  "regie": [
+    "Rob Reiner"
+  ],
+  "script": [
+    "Aaron Sorkin"
+  ],
+  "actors": [
+    "Tom Cruise",
+    "Jack Nicholson",
+    "Demi Moore"
+  ],
+  "image": "tt0104257.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad287"
+  },
+  "url": "https://www.imdb.com/title/tt0470752/?ref_=sr_t_76",
+  "id": "tt0470752",
+  "title": "Ex Machina",
+  "rating": 7.7,
+  "release": 2014,
+  "fsk": 12,
+  "length": "1h 48m",
+  "description": "Ein junger Programmierer wird für die Teilnahme an einem bahnbrechenden Experiment im Bereich künstliche Intelligenz ausgewählt. Er soll die menschlichen Qualitäten einer atemberaubenden Roboterfrau testen.",
+  "genres": [
+    "Artificial Intelligence",
+    "Psychological Thriller",
+    "Drama",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "regie": [
+    "Alex Garland"
+  ],
+  "script": [
+    "Alex Garland"
+  ],
+  "actors": [
+    "Alicia Vikander",
+    "Domhnall Gleeson",
+    "Oscar Isaac"
+  ],
+  "image": "tt0470752.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad288"
+  },
+  "url": "https://www.imdb.com/title/tt20561198/?ref_=sr_t_77",
+  "id": "tt20561198",
+  "title": "King's Land",
+  "rating": 7.7,
+  "release": 2023,
+  "fsk": 16,
+  "length": "2h 7m",
+  "description": "Die Geschichte von Ludvig Kahlen, der seinen Lebenstraum verfolgte: Die Heide sollte ihm Reichtum und Ehre bringen.",
+  "genres": [
+    "Epic",
+    "Historical Epic",
+    "Action",
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "regie": [
+    "Nikolaj Arcel"
+  ],
+  "script": [
+    "Nikolaj Arcel",
+    "Anders Thomas Jensen",
+    "Ida Jessen"
+  ],
+  "actors": [
+    "Mads Mikkelsen",
+    "Amanda Collin",
+    "Simon Bennebjerg"
+  ],
+  "image": "tt20561198.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad289"
+  },
+  "url": "https://www.imdb.com/title/tt0119174/?ref_=sr_t_78",
+  "id": "tt0119174",
+  "title": "The Game - Das Geschenk seines Lebens",
+  "rating": 7.7,
+  "release": 1997,
+  "fsk": 12,
+  "length": "2h 9m",
+  "description": "Ein wohlhabender Banker erhält die Möglichkeit, an einem mysteriösen Spiel teilzunehmen. Sein Leben wird auf den Kopf gestellt, nachdem er nicht mehr zwischen Spiel und Realität unterscheiden kann.",
+  "genres": [
+    "Conspiracy Thriller",
+    "Psychological Drama",
+    "Psychological Thriller",
+    "Suspense Mystery",
+    "Tragedy",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "regie": [
+    "David Fincher"
+  ],
+  "script": [
+    "John Brancato",
+    "Michael Ferris"
+  ],
+  "actors": [
+    "Michael Douglas",
+    "Deborah Kara Unger",
+    "Sean Penn"
+  ],
+  "image": "tt0119174.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad28a"
+  },
+  "url": "https://www.imdb.com/title/tt0265086/?ref_=sr_t_79",
+  "id": "tt0265086",
+  "title": "Black Hawk Down",
+  "rating": 7.7,
+  "release": 2001,
+  "fsk": 16,
+  "length": "2h 22m",
+  "description": "160 Elite-US-Soldaten kommen nach Somalia, um zwei Oberleutnants eines abtrünnigen Warlords zu fassen, die sich in einer verzweifelten Schlacht mit einer großen Truppe schwerbewaffneter Somalis befinden.",
+  "genres": [
+    "Action Epic",
+    "Docudrama",
+    "Epic",
+    "Historical Epic",
+    "Tragedy",
+    "War Epic",
+    "Action",
+    "Drama",
+    "History",
+    "War"
+  ],
+  "regie": [
+    "Ridley Scott"
+  ],
+  "script": [
+    "Mark Bowden",
+    "Ken Nolan"
+  ],
+  "actors": [
+    "Josh Hartnett",
+    "Ewan McGregor",
+    "Tom Sizemore"
+  ],
+  "image": "tt0265086.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad28b"
+  },
+  "url": "https://www.imdb.com/title/tt0080339/?ref_=sr_t_80",
+  "id": "tt0080339",
+  "title": "Die unglaubliche Reise in einem verrückten Flugzeug",
+  "rating": 7.7,
+  "release": 1980,
+  "fsk": 12,
+  "length": "1h 28m",
+  "description": "Ein Mann mit Flugangst muss sicherstellen, dass ein Flugzeug sicher landet, nachdem die Piloten krank geworden sind.",
+  "genres": [
+    "Dark Comedy",
+    "Farce",
+    "Parody",
+    "Slapstick",
+    "Comedy"
+  ],
+  "regie": [
+    "Jim Abrahams",
+    "David Zucker",
+    "Jerry Zucker"
+  ],
+  "script": [
+    "Jim Abrahams",
+    "David Zucker",
+    "Jerry Zucker"
+  ],
+  "actors": [
+    "Robert Hays",
+    "Julie Hagerty",
+    "Leslie Nielsen"
+  ],
+  "image": "tt0080339.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad28c"
+  },
+  "url": "https://www.imdb.com/title/tt0240772/?ref_=sr_t_81",
+  "id": "tt0240772",
+  "title": "Ocean's Eleven",
+  "rating": 7.7,
+  "release": 2001,
+  "fsk": 12,
+  "length": "1h 56m",
+  "description": "Danny Ocean und seine elf Komplizen planen, drei Casinos in Las Vegas gleichzeitig zu berauben.",
+  "genres": [
+    "Caper",
+    "Heist",
+    "Crime",
+    "Thriller"
+  ],
+  "regie": [
+    "Steven Soderbergh"
+  ],
+  "script": [
+    "George Clayton Johnson",
+    "Jack Golden Russell",
+    "Harry Brown"
+  ],
+  "actors": [
+    "George Clooney",
+    "Brad Pitt",
+    "Julia Roberts"
+  ],
+  "image": "tt0240772.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad28d"
+  },
+  "url": "https://www.imdb.com/title/tt0071360/?ref_=sr_t_82",
+  "id": "tt0071360",
+  "title": "Der Dialog",
+  "rating": 7.7,
+  "release": 1974,
+  "fsk": 16,
+  "length": "1h 53m",
+  "description": "Ein paranoider, geheimnisvoller Überwachungsexperte hat eine Gewissenskrise, wenn er den Verdacht hat, dass ein Paar, dem er nachspioniert, ermordet wird.",
+  "genres": [
+    "Conspiracy Thriller",
+    "Psychological Drama",
+    "Psychological Thriller",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "regie": [
+    "Francis Ford Coppola"
+  ],
+  "script": [
+    "Francis Ford Coppola"
+  ],
+  "actors": [
+    "Gene Hackman",
+    "John Cazale",
+    "Allen Garfield"
+  ],
+  "image": "tt0071360.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad28e"
+  },
+  "url": "https://www.imdb.com/title/tt0328107/?ref_=sr_t_83",
+  "id": "tt0328107",
+  "title": "Mann unter Feuer",
+  "rating": 7.7,
+  "release": 2004,
+  "fsk": 16,
+  "length": "2h 26m",
+  "description": "In Mexiko-Stadt schwört ein ehemaliger Attentäter Rache an denen, die eine unaussprechliche Tat gegen die Familie begangen haben, für deren Schutz er angeheuert wurde.",
+  "genres": [
+    "Tragedy",
+    "Action",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "regie": [
+    "Tony Scott"
+  ],
+  "script": [
+    "A.J. Quinnell",
+    "Brian Helgeland"
+  ],
+  "actors": [
+    "Denzel Washington",
+    "Christopher Walken",
+    "Dakota Fanning"
+  ],
+  "image": "tt0328107.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad28f"
+  },
+  "url": "https://www.imdb.com/title/tt0398286/?ref_=sr_t_84",
+  "id": "tt0398286",
+  "title": "Rapunzel - Neu verföhnt",
+  "rating": 7.7,
+  "release": 2010,
+  "fsk": 0,
+  "length": "1h 40m",
+  "description": "Rapunzel hat ihr ganzes Leben in einem Turm verbracht, aber nun, da sie von einem entflohenen Dieb zufällig gefunden wurde, wird sie die Welt zum ersten Mal entdecken und auch wer sie wirklich ist.",
+  "genres": [
+    "Computer Animation",
+    "Fairy Tale",
+    "Feel-Good Romance",
+    "Pop Musical",
+    "Teen Adventure",
+    "Teen Comedy",
+    "Teen Fantasy",
+    "Teen Romance",
+    "Adventure",
+    "Animation"
+  ],
+  "regie": [
+    "Nathan Greno",
+    "Byron Howard"
+  ],
+  "script": [
+    "Dan Fogelman",
+    "Jacob Grimm",
+    "Wilhelm Grimm"
+  ],
+  "actors": [
+    "Mandy Moore",
+    "Zachary Levi",
+    "Donna Murphy"
+  ],
+  "image": "tt0398286.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad290"
+  },
+  "url": "https://www.imdb.com/title/tt0058150/?ref_=sr_t_85",
+  "id": "tt0058150",
+  "title": "Goldfinger",
+  "rating": 7.7,
+  "release": 1964,
+  "fsk": 16,
+  "length": "1h 50m",
+  "description": "Während der Untersuchung des Schmuggels eines Goldmagnaten deckt James Bond eine Verschwörung auf, um die Goldreserve von Fort Knox zu verunreinigen.",
+  "genres": [
+    "Spy",
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "regie": [
+    "Guy Hamilton"
+  ],
+  "script": [
+    "Richard Maibaum",
+    "Paul Dehn",
+    "Ian Fleming"
+  ],
+  "actors": [
+    "Sean Connery",
+    "Gert Fröbe",
+    "Honor Blackman"
+  ],
+  "image": "tt0058150.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad291"
+  },
+  "url": "https://www.imdb.com/title/tt0335266/?ref_=sr_t_86",
+  "id": "tt0335266",
+  "title": "Lost in Translation: Zwischen den Welten",
+  "rating": 7.7,
+  "release": 2003,
+  "fsk": 6,
+  "length": "1h 42m",
+  "description": "Ein alternder Filmstar und eine vernachlässigte junge Frau gehen eine ungewöhnliche Bindung ein, als sich ihre Wege in Tokio kreuzen.",
+  "genres": [
+    "Coming-of-Age",
+    "Comedy",
+    "Drama"
+  ],
+  "regie": [
+    "Sofia Coppola"
+  ],
+  "script": [
+    "Sofia Coppola"
+  ],
+  "actors": [
+    "Bill Murray",
+    "Scarlett Johansson",
+    "Giovanni Ribisi"
+  ],
+  "image": "tt0335266.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad292"
+  },
+  "url": "https://www.imdb.com/title/tt0245574/?ref_=sr_t_87",
+  "id": "tt0245574",
+  "title": "Y tu mamá también - Lust for Life",
+  "rating": 7.7,
+  "release": 2001,
+  "fsk": 16,
+  "length": "1h 46m",
+  "description": "In Mexiko machen sich zwei Teenager und eine attraktive ältere Frau auf eine Reise, um etwas über das Leben, die Freundschaft, den Sex und den jeweils anderen zu erfahren.",
+  "genres": [
+    "Coming-of-Age",
+    "Road Trip",
+    "Drama"
+  ],
+  "regie": [
+    "Alfonso Cuarón"
+  ],
+  "script": [
+    "Carlos Cuarón",
+    "Alfonso Cuarón"
+  ],
+  "actors": [
+    "Maribel Verdú",
+    "Gael García Bernal",
+    "Daniel Giménez Cacho"
+  ],
+  "image": "tt0245574.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad293"
+  },
+  "url": "https://www.imdb.com/title/tt0098635/?ref_=sr_t_88",
+  "id": "tt0098635",
+  "title": "Harry und Sally",
+  "rating": 7.7,
+  "release": 1989,
+  "fsk": 16,
+  "length": "1h 35m",
+  "description": "Harry und Sally kennen sich schon seit Jahren und sind sehr gute Freunde, befürchten jedoch, Sex könne ihre Freundschaft zerstören.",
+  "genres": [
+    "Feel-Good Romance",
+    "Romantic Comedy",
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "regie": [
+    "Rob Reiner"
+  ],
+  "script": [
+    "Nora Ephron"
+  ],
+  "actors": [
+    "Billy Crystal",
+    "Meg Ryan",
+    "Carrie Fisher"
+  ],
+  "image": "tt0098635.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad294"
+  },
+  "url": "https://www.imdb.com/title/tt0096438/?ref_=sr_t_89",
+  "id": "tt0096438",
+  "title": "Falsches Spiel mit Roger Rabbit",
+  "rating": 7.7,
+  "release": 1988,
+  "fsk": 12,
+  "length": "1h 44m",
+  "description": "Ein Privatdetektiv kann Toons nicht ausstehen. Er ist aber die einzige Hoffnung für einen Cartoon-Hasen, der fälschlicherweise eines Mordes beschuldigt wird.",
+  "genres": [
+    "Adult Animation",
+    "Buddy Comedy",
+    "Hand-Drawn Animation",
+    "High-Concept Comedy",
+    "Parody",
+    "Slapstick",
+    "Adventure",
+    "Animation",
+    "Comedy",
+    "Crime"
+  ],
+  "regie": [
+    "Robert Zemeckis"
+  ],
+  "script": [
+    "Jeffrey Price",
+    "Peter S. Seaman",
+    "Gary K. Wolf"
+  ],
+  "actors": [
+    "Bob Hoskins",
+    "Christopher Lloyd",
+    "Joanna Cassidy"
+  ],
+  "image": "tt0096438.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad295"
+  },
+  "url": "https://www.imdb.com/title/tt0936501/?ref_=sr_t_90",
+  "id": "tt0936501",
+  "title": "96 Hours",
+  "rating": 7.7,
+  "release": 2008,
+  "fsk": 16,
+  "length": "1h 30m",
+  "description": "Ein pensionierter CIA-Agent reist durch Europa und verlässt sich auf seine alten Fähigkeiten, um seine entfremdete Tochter zu retten, die auf einer Reise nach Paris entführt wurde.",
+  "genres": [
+    "One-Person Army Action",
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "regie": [
+    "Pierre Morel"
+  ],
+  "script": [
+    "Luc Besson",
+    "Robert Mark Kamen"
+  ],
+  "actors": [
+    "Liam Neeson",
+    "Maggie Grace",
+    "Famke Janssen"
+  ],
+  "image": "tt0936501.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad296"
+  },
+  "url": "https://www.imdb.com/title/tt1270798/?ref_=sr_t_91",
+  "id": "tt1270798",
+  "title": "X-Men: Erste Entscheidung",
+  "rating": 7.7,
+  "release": 2011,
+  "fsk": 12,
+  "length": "2h 11m",
+  "description": "In den 60er Jahren kollaborieren die Mutanten Charles Xavier und Erik Lehnsherr, um ihresgleichen zu finden. Die leidvolle Biographie Eriks birgt jedoch andere Motive, welche die Partnerschaft der beiden zerstören kann.",
+  "genres": [
+    "Superhero",
+    "Action",
+    "Sci-Fi"
+  ],
+  "regie": [
+    "Matthew Vaughn"
+  ],
+  "script": [
+    "Ashley E. Miller",
+    "Zack Stentz",
+    "Jane Goldman"
+  ],
+  "actors": [
+    "James McAvoy",
+    "Michael Fassbender",
+    "Jennifer Lawrence"
+  ],
+  "image": "tt1270798.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad297"
+  },
+  "url": "https://www.imdb.com/title/tt0068473/?ref_=sr_t_92",
+  "id": "tt0068473",
+  "title": "Beim Sterben ist jeder der Erste",
+  "rating": 7.7,
+  "release": 1972,
+  "fsk": 16,
+  "length": "1h 49m",
+  "description": "In der Absicht, den Cahulawassee River noch einmal zu sehen, bevor dieser in einen riesigen See verwandelt wird, nimmt Outdoor-Fanatiker Lewis Medlock seine Freunde mit auf eine River-Rafting-Tour durch die gefährliche amerikanische Wildnis, die sie nie vergessen werden.",
+  "genres": [
+    "Psychological Thriller",
+    "Survival",
+    "Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "regie": [
+    "John Boorman"
+  ],
+  "script": [
+    "James Dickey",
+    "John Boorman"
+  ],
+  "actors": [
+    "Jon Voight",
+    "Burt Reynolds",
+    "Ned Beatty"
+  ],
+  "image": "tt0068473.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad298"
+  },
+  "url": "https://www.imdb.com/title/tt10370710/?ref_=sr_t_93",
+  "id": "tt10370710",
+  "title": "Der schlimmste Mensch der Welt",
+  "rating": 7.7,
+  "release": 2021,
+  "fsk": 12,
+  "length": "2h 8m",
+  "description": "Julie, eine Frau, die durch die unruhigen Gewässer ihres Liebeslebens navigiert und darum kämpft, ihren Karriereweg zu finden, was sie dazu bringt, einen Blick darauf zu werfen, wer sie wirklich ist.",
+  "genres": [
+    "Coming-of-Age",
+    "Romantic Comedy",
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "regie": [
+    "Joachim Trier"
+  ],
+  "script": [
+    "Eskil Vogt",
+    "Joachim Trier"
+  ],
+  "actors": [
+    "Renate Reinsve",
+    "Anders Danielsen Lie",
+    "Herbert Nordrum"
+  ],
+  "image": "tt10370710.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad299"
+  },
+  "url": "https://www.imdb.com/title/tt0190590/?ref_=sr_t_94",
+  "id": "tt0190590",
+  "title": "O Brother, Where Art Thou? - Eine Mississippi-Odyssee",
+  "rating": 7.7,
+  "release": 2000,
+  "fsk": 12,
+  "length": "1h 47m",
+  "description": "Im tiefen Süden der dreißiger Jahre suchen drei entflohene Sträflinge nach versteckten Schätzen, während ein unerbittlicher Gesetzeshüter sie verfolgt.",
+  "genres": [
+    "Adventure Epic",
+    "Caper",
+    "Dark Comedy",
+    "Period Drama",
+    "Quest",
+    "Road Trip",
+    "Satire",
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "regie": [
+    "Joel Coen",
+    "Ethan Coen"
+  ],
+  "script": [
+    "Homer",
+    "Ethan Coen",
+    "Joel Coen"
+  ],
+  "actors": [
+    "George Clooney",
+    "John Turturro",
+    "Tim Blake Nelson"
+  ],
+  "image": "tt0190590.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad29a"
+  },
+  "url": "https://www.imdb.com/title/tt4912910/?ref_=sr_t_95",
+  "id": "tt4912910",
+  "title": "Mission: Impossible - Fallout",
+  "rating": 7.7,
+  "release": 2018,
+  "fsk": 12,
+  "length": "2h 27m",
+  "description": "Nach einer missglückten Mission finden sich Ethan Hunt und sein IMF-Team - zusammen mit einigen bekannten Verbündeten - wieder in einem Rennen gegen die Zeit.",
+  "genres": [
+    "Action Epic",
+    "Globetrotting Adventure",
+    "Spy",
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "regie": [
+    "Christopher McQuarrie"
+  ],
+  "script": [
+    "Bruce Geller",
+    "Christopher McQuarrie"
+  ],
+  "actors": [
+    "Tom Cruise",
+    "Henry Cavill",
+    "Ving Rhames"
+  ],
+  "image": "tt4912910.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad29b"
+  },
+  "url": "https://www.imdb.com/title/tt1045658/?ref_=sr_t_96",
+  "id": "tt1045658",
+  "title": "Silver Linings",
+  "rating": 7.7,
+  "release": 2012,
+  "fsk": 12,
+  "length": "2h 2m",
+  "description": "Nach dem Aufenthalt in einer psychiatrischen Anstalt zieht der Lehrer Pat Solitano zurück zu seinen Eltern und versucht, wieder zu seiner Ex-Frau zurückzufinden. Komplizierter wird es, als Pat Tiffany trifft, eine mysteriöse junge Frau mit ganz eigenen Problemen.",
+  "genres": [
+    "Psychological Drama",
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "regie": [
+    "David O. Russell"
+  ],
+  "script": [
+    "David O. Russell",
+    "Matthew Quick"
+  ],
+  "actors": [
+    "Bradley Cooper",
+    "Jennifer Lawrence",
+    "Robert De Niro"
+  ],
+  "image": "tt1045658.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad29c"
+  },
+  "url": "https://www.imdb.com/title/tt0112384/?ref_=sr_t_97",
+  "id": "tt0112384",
+  "title": "Apollo 13",
+  "rating": 7.7,
+  "release": 1995,
+  "fsk": 6,
+  "length": "2h 20m",
+  "description": "Die NASA muss eine Strategie ausarbeiten, um Apollo 13 sicher zur Erde zurückzubringen, nachdem das Raumschiff massiven Schaden erlitten hat, der die Leben der drei Astronauten an Bord in Gefahr bringt.",
+  "genres": [
+    "Survival",
+    "Adventure",
+    "Drama",
+    "History"
+  ],
+  "regie": [
+    "Ron Howard"
+  ],
+  "script": [
+    "Jim Lovell",
+    "Jeffrey Kluger",
+    "William Broyles Jr."
+  ],
+  "actors": [
+    "Tom Hanks",
+    "Bill Paxton",
+    "Kevin Bacon"
+  ],
+  "image": "tt0112384.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad29d"
+  },
+  "url": "https://www.imdb.com/title/tt2562232/?ref_=sr_t_98",
+  "id": "tt2562232",
+  "title": "Birdman oder (Die unverhoffte Macht der Ahnungslosigkeit)",
+  "rating": 7.7,
+  "release": 2014,
+  "fsk": 12,
+  "length": "1h 59m",
+  "description": "Ein abgehalfterter Schauspieler, der früher einen berühmten Superhelden spielte, versucht, seine Karriere als Autor und Hauptdarsteller in einem Broadway-Stück wiederzubeleben.",
+  "genres": [
+    "Dark Comedy",
+    "Satire",
+    "Showbiz Drama",
+    "Workplace Drama",
+    "Comedy",
+    "Drama"
+  ],
+  "regie": [
+    "Alejandro G. Iñárritu"
+  ],
+  "script": [
+    "Alejandro G. Iñárritu",
+    "Nicolás Giacobone",
+    "Alexander Dinelaris"
+  ],
+  "actors": [
+    "Michael Keaton",
+    "Zach Galifianakis",
+    "Edward Norton"
+  ],
+  "image": "tt2562232.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad29e"
+  },
+  "url": "https://www.imdb.com/title/tt0914798/?ref_=sr_t_99",
+  "id": "tt0914798",
+  "title": "Der Junge im gestreiften Pyjama",
+  "rating": 7.7,
+  "release": 2008,
+  "fsk": 12,
+  "length": "1h 34m",
+  "description": "Während des Zweiten Weltkriegs wurde eine Geschichte mit unschuldigen Augen von Bruno, dem achtjährigen Sohn des Kommandanten in einem deutschen Konzentrationslager, gesehen, dessen verbotene Freundschaft mit einem jüdischen Jungen auf der anderen Seite des Lagerzauns überraschende und unerwartete Folgen hat.",
+  "genres": [
+    "Prison Drama",
+    "Tragedy",
+    "Drama",
+    "War"
+  ],
+  "regie": [
+    "Mark Herman"
+  ],
+  "script": [
+    "John Boyne",
+    "Mark Herman"
+  ],
+  "actors": [
+    "Asa Butterfield",
+    "David Thewlis",
+    "Rupert Friend"
+  ],
+  "image": "tt0914798.jpg"
+},
+{
+  "_id": {
+    "$oid": "679f2c9606bd8173a46ad29f"
+  },
+  "url": "https://www.imdb.com/title/tt0071230/?ref_=sr_t_100",
+  "id": "tt0071230",
+  "title": "Der wilde wilde Westen",
+  "rating": 7.7,
+  "release": 1974,
+  "fsk": 12,
+  "length": "1h 33m",
+  "description": "Um eine Western-Stadt zu ruinieren, ernennt ein korrupter Politiker einen schwarzen Sheriff, der prompt zu seinem größten Gegner wird.",
+  "genres": [
+    "Farce",
+    "Parody",
+    "Slapstick",
+    "Comedy",
+    "Western"
+  ],
+  "regie": [
+    "Mel Brooks"
+  ],
+  "script": [
+    "Mel Brooks",
+    "Norman Steinberg",
+    "Andrew Bergman"
+  ],
+  "actors": [
+    "Cleavon Little",
+    "Gene Wilder",
+    "Slim Pickens"
+  ],
+  "image": "tt0071230.jpg"
+}]
